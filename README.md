@@ -50,8 +50,11 @@
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [Flutter Rewind 2019 - Backstage, Observations, Statistics and more!](https://medium.com/@sercanyusuf/flutter-rewind-2019-backstage-observations-statistics-and-more-5a60e8b6f780)
+- [Flutter Interact: All you need to know!!](https://medium.com/@sercanyusuf/flutter-interact-all-you-need-to-know-207f5ffccfb9)
+- [Making Flutter Apps Beyond Mobile](https://medium.com/@sercanyusuf/making-flutter-apps-beyond-mobile-aa88a0618800)
+- [GDG Istanbul Flutter Study Jam](https://medium.com/gdg-istanbul/gdg-istanbul-flutter-study-jam-7937a62db293)
+- [GDG Turkey Summit](https://medium.com/@sercanyusuf/gdg-turkey-summit-en-340bab1fd11)
 
 ## Connect
 
